@@ -5,8 +5,8 @@ authors = []
 telemetry = true
 cache_dir = '.\.cache'
 requirements = []
-[contracts.anonymization]
-path = 'contracts/anonymization.clar'
+[contracts.impact_repo]
+path = 'contracts/impact_repo.clar'
 clarity_version = 2
 epoch = 2.5
 
