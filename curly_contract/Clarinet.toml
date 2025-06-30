@@ -24,6 +24,11 @@ epoch = 2.5
 path = 'contracts/stockroom_with_multiple_keys.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.token_integration]
+path = 'contracts/token_integration.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
